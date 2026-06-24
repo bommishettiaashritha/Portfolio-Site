@@ -19,4 +19,4 @@ A responsive personal portfolio website developed using HTML, CSS, and JavaScrip
 - JavaScript
 
 ## Author
-Archita
+Aashritha
